@@ -1,0 +1,18 @@
+.album{
+  text-align:center;
+  margin-bottom: 100px;
+  padding-bottom: 50px;
+  border-bottom: solid black 3px;
+}
+
+img{
+	margin: auto;
+}
+
+.lslide{
+	margin: auto;
+}
+
+h2{	
+  padding-bottom: 30px;
+}
